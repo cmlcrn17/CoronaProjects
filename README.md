@@ -9,3 +9,7 @@ API Link: https://collectapi.com/tr/api/corona/covid-19-koronavirus-istatistik-a
 Web Api: https://github.com/cmlcrn17/APICoronaTracker/tree/master
 
 Android: -
+
+
+WEB API Result:
+![alt text](https://github.com/cmlcrn17/CoronaProjects/blob/master/APIResult.png)
